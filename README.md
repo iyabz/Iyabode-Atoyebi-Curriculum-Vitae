@@ -1,5 +1,4 @@
-# IyabodeAtoyebi.github.io
-My CV website
+
 <html>
 	<head>
 	<title>Iyabode Atoyebi's CV</title>
