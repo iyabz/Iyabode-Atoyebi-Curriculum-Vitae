@@ -124,9 +124,7 @@
 <div class="validation"></div>
 </div>
 <div class="form-group">
-<p class="oblique">Email</p> <input type="email" name="email"class="form-control" id="Email" placeholder="Enter your Email address">
-
-</div>
+<p class="oblique">Email</p> <input type="email" name="email" class="form-control" id="Email" placeholder="Enter your Email address"</div>
 <div class="form-group">
 <p class="oblique">Title</p><textarea name="Title" rows="1"cols="25" placeholder="Subject"></textarea>
 </div>
