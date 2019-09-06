@@ -38,7 +38,7 @@
 		<h3 style="color:blue;">Product (UI/UX) Designer</h3>
 		
 		<h4 style="color:blue;">Contact</h4>
-		<p><style="color:blue;">Home address: Ile Elerin Compound, Ogidiri Offa, Kwara State, Nigeria<br style="color:#ffffff">Phone number: (234)814-937-3653 <br>Email: <a href="mailto:iyabodeatoyebi@gmail.com@gmail.com">iyabodeatoyebi@gmail.com</a></p>
+		<p>Home address: Ile Elerin Compound, Ogidiri Offa, Kwara State, Nigeria<br style="color:#ffffff">Phone number: (234)814-937-3653 <br>Email: <a href="mailto:iyabodeatoyebi@gmail.com@gmail.com">iyabodeatoyebi@gmail.com</a></p>
 		
 		<h4 style="color:blue;">Education</h4>
 		<p><b>BSc. Mass Communication</b> / <style="color:blue;">Kogi State University, Anyigba, Nigeria. <br style="color:#ffffff">From January 2014 to February 2018</p> <p>Second Class Upper Honours. Graduated Magna Cum Laude.</p>
