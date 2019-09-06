@@ -77,6 +77,8 @@
 					<li>A/B Testing</li>
 					<li>User Interface Design</li>
 					<li>User Experience Design</li>
+					<li>HTML</li>
+					<li>CSS</li>
 				</ul>
 			
 			<h4 style="color:blue">Computer Software</h4>	
@@ -99,7 +101,7 @@
 					<li>Keen Collaborator</li>
 				</ul>
 				
-		<h4 style="color:blue">Assets</h4>	
+		<h4 style="color:blue">Interests</h4>	
 				<ul>
 					<li>Penetration Testing</li>
 					<li>Security Research</li>
@@ -118,25 +120,21 @@
 <div>
 <h4 style="subHeading;color:blue;">Contact Me</h4>
 
-     			<form>
-<div class="form-group">
-<p class="oblique">Name</p> <input type="text" name="name" class="form-control" id="name" placeholder="Enter your name" minlength="4">
-<div class="validation"></div>
-</div>
-<div class="form-group">
-<p class="oblique">Email</p> <input type="email" name="email" class="form-control" id="Email" placeholder="Enter your Email address"</div>
-<div class="form-group">
-<p class="oblique">Title</p><textarea name="Title" rows="1"cols="25" placeholder="Subject"></textarea>
-</div>
-<div class="form-group">
-<p class="oblique">Message</p><textarea name="message" rows="6" cols="25" class="form-control" id="message" placeholder="Type message" minlength="20" data-msg="Type message"></textarea><br/>
-<div class="validation"></div>
+  <div style="width: 80%; margin:auto;">
+    <form>
+        
+        <div class="repo">
+            <h5>Name:</h5> <input type="text" minlength="4" name="name" value="" placeholder="Enter Fullname">
+            
+            <h5>E-mail:</h5> <input type="email" name="email" placeholder="example@email.com">
+            <h5>Title:</h5> <input type="text" name="title" placeholder="Enter Title">	
+            <span class="spar">
+                <h5>Message:</h5><textarea class="inpo" minlength="20" placeholder="Please enter your message"></textarea>
+                <button>Submit</button>
+            </span>
+        </div>
+    </form>
 
-<input type="submit" value="Send"><input type="reset" value="Clear">
-
-      </div>
-	
-	
 
 
 
