@@ -132,8 +132,9 @@
                 <h5>Message:</h5><textarea class="inpo" minlength="20" placeholder="Please enter your message"></textarea>
                 <button>Submit</button>
             </span>
-        </div>
+    
     </form>
+        </div>
 
 
 
