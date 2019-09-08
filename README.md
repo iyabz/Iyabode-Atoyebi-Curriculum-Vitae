@@ -134,6 +134,61 @@
             </span>
 
         </div>
+	 
+			 <form action="contact.php" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
+			 
+        <div class="gridP" style="margin-top: -236px;>
+          	<h4 style="color:blue">Contact Me</h4>
+
+          <div>
+            <p class="ti-body" style="margin-left: -17px; text-align: left;">
+			
+			
+
+			
+            <div style="position: relative; margin-top: -30px;">
+              <form id="contact-form" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
+                
+                  <input type="hidden" name="orgid" value="00D24000000czLI"/>
+                  <input type="hidden" name="retURL" value="https://www.jumia.com.ng/contact-thankyou/"/>
+                  <input type="hidden" name="00N2400000IQx8H" value="Nigeria"/>
+                  <input type=hidden id="recordType" name="recordType" value="012240000002tQf"/>
+                  <br/>
+                  <br/>
+                  <table>
+                    <tbody>
+                      <tr>
+                        
+                          <label for="name">*Name</label><br><br>
+                          <input id="name" maxlength="80" name="name" size="20" type="text" placeholder="Enter your Name" /><br><br>
+                        
+                        <label for="email">*Email</label><br><br>
+                          <input id="email" maxlength="80" name="email" size="20" type="email" placeholder="Enter your Email" required/><br><br>
+                       
+						
+						
+                          <label for="title">*Title</label><br><br>
+                          <input id="text" maxlength="80" name="title" size="20" type="text" placeholder="Subject" required/>
+                        
+                      </tr>
+                      
+                      
+<br/>
+
+                      <tr>
+                        <td colspan="2"><br/>*Description <br><br>
+                          <textarea id="message" name="description"  placeholder="Type a message..."
+                            required></textarea>
+                        </td>
+
+                      </tr>
+
+
+                    </tbody>
+                  </table>
+                  <input type="submit" value="Submit" id="submit-button"/>
+                </center>
+              </form>
 
 
 
