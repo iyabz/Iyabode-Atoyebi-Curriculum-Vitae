@@ -122,7 +122,7 @@
 			
 
           <div>
-	   <form action="contact.php" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
+	   <form action="contact.php" action="https://iyabz.github.io/contact-thankyou/" method="post">
 			 
        
           	<h4 style="color:blue">Contact Me</h4>
