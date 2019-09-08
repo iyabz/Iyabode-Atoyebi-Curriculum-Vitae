@@ -119,12 +119,13 @@
 				</ul>
 
 	 
-			 <form action="contact.php" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
-			 
-        <div class="gridP" style="margin-top: -236px;>
-          	<h4 style="color:blue">Contact Me</h4>
+			
 
           <div>
+	   <form action="contact.php" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
+			 
+       
+          	<h4 style="color:blue">Contact Me</h4>
             <p class="ti-body" style="margin-left: -17px; text-align: left;">
 			
 			
