@@ -117,23 +117,7 @@
 					<li>Facebook: <a href="https://web.facebook.com/iyabo.atoyebi?_rdc=1&_rdr">https://web.facebook.com/iyabo.atoyebi?_rdc=1&_rdrs</a></li>
 					<li>Instagram: <a href="https://www.instagram.com/miss_aiz/">https://www.instagram.com/miss_aiz/</a></li>
 				</ul>
-<div>
-<h4 style="subHeading;color:blue;">Contact Me</h4>
 
-  <div style="width: 80%; margin:auto;">
-    <form>
-        
-        <div class="repo">
-            <h5>Name:</h5> <input type="text" minlength="4" name="name" value="" placeholder="Enter Fullname">
-            
-            <h5>E-mail:</h5> <input type="email" name="email" placeholder="example@email.com">
-            <h5>Title:</h5> <input type="text" name="title" placeholder="Enter Title">	
-            <span class="spar">
-                <h5>Message:</h5><textarea class="inpo" minlength="20" placeholder="Please enter your message"></textarea>
-                <button>Submit</button>
-            </span>
-
-        </div>
 	 
 			 <form action="contact.php" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
 			 
@@ -167,14 +151,13 @@
 						
 						
                           <label for="title">*Title</label><br><br>
-                          <input id="text" maxlength="80" name="title" size="20" type="text" placeholder="Subject" required/>
-                        
-                      </tr>
+                          <input id="text" maxlength="80" name="title" size="20" type="text" placeholder="Subject" required/><br><br>
+                       
                       
                       
 <br/>
 
-                      <tr>
+                    
                         <label for="description">*Description</label> <br><br>
                           <textarea id="message" name="description"  placeholder="Type a message..."
                             required></textarea>
