@@ -143,7 +143,7 @@
                       <tr>
                         
                           <label for="name">*Name</label><br><br>
-                          <input id="name" maxlength="80" name="name" size="20" type="text" placeholder="Enter your Name" /><br><br>
+                          <input id="name" maxlength="80" name="visitor_name" size="20" type="text" placeholder="Enter your Name" /><br><br>
                         
                         <label for="email">*Email</label><br><br>
                           <input id="email" maxlength="80" name="email" size="20" type="email" placeholder="Enter your Email" required/><br><br>
