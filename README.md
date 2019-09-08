@@ -137,8 +137,7 @@
                   <input type="hidden" name="orgid" value="00D24000000czLI"/>
                   <input type="hidden" name="retURL" value="https://www.jumia.com.ng/contact-thankyou/"/>
                   
-                  <br/>
-                  <br/>
+                 
                   <table>
                     <tbody>
                       <tr>
@@ -156,7 +155,6 @@
                        
                       
                       
-<br/>
 
                     
                         <label for="description">*Description</label> <br><br>
