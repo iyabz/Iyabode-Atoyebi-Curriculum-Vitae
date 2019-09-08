@@ -176,7 +176,7 @@
 <br/>
 
                       <tr>
-                        <td colspan="2"><br/>*Description <br><br>
+                        <label for="description">*Description</label> <br><br>
                           <textarea id="message" name="description"  placeholder="Type a message..."
                             required></textarea>
                         </td>
@@ -187,7 +187,7 @@
                     </tbody>
                   </table>
                   <input type="submit" value="Submit" id="submit-button"/>
-                </center>
+          
               </form>
 
 
