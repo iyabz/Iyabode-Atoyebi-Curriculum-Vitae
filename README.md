@@ -146,13 +146,12 @@
 			
 
 			
-            <div style="position: relative; margin-top: -30px;">
+           
               <form id="contact-form" action="https://www.jumia.com.ng/contact-thankyou/" method="post">
                 
                   <input type="hidden" name="orgid" value="00D24000000czLI"/>
                   <input type="hidden" name="retURL" value="https://www.jumia.com.ng/contact-thankyou/"/>
-                  <input type="hidden" name="00N2400000IQx8H" value="Nigeria"/>
-                  <input type=hidden id="recordType" name="recordType" value="012240000002tQf"/>
+                  
                   <br/>
                   <br/>
                   <table>
@@ -179,7 +178,7 @@
                         <label for="description">*Description</label> <br><br>
                           <textarea id="message" name="description"  placeholder="Type a message..."
                             required></textarea>
-                        </td>
+                 
 
                       </tr>
 
